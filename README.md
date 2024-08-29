@@ -12,7 +12,7 @@ I've worked on:
 - C
 
 ### Interests
-- Amatuer Radio
+- Amatuer Radio, callsigns M7CKP and 2E0PTH
 - Electronics, e.g. small microcontroller projects
 
 
