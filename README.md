@@ -1,5 +1,3 @@
-Hi, I’m @M7CKP. A retired software engineer who now writes code for enjoyment and the challenge.
-
 ### Experience
 I've worked on:
 - Air Traffic control systems
